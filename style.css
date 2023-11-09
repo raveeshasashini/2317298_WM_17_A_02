@@ -30,6 +30,7 @@
 }
 body {
     text-align: center;
+    font-weight: bold;
     height: 100vh;
     background: linear-gradient(
         #e92e3d,
